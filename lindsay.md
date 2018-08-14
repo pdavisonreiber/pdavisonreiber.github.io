@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Lindsay Davison-Reiber
 permalink: /lindsay
 ---

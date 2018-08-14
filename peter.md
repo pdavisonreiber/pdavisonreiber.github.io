@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Peter Davison-Reiber
 permalink: /peter
 ---
