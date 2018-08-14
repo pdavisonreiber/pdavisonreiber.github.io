@@ -1,9 +1,3 @@
 ## Welcome
 
-This is the home page for the Davison-Reiber family.
-
-### Peter
-This is a section about Peter.
-
-### Lindsay
-This is a section about Lindsay.
+This is the home page for the Davison-Reiber family. Please use the links above to view the pages for Peter and Lindsay.
