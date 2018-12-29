@@ -6,5 +6,3 @@ I'm a maths teacher working in London. In my spare time I also enjoy writing and
 - Twitter: [@pdavisonreiber](https://twitter.com/pdavisonreiber)
 - GitHub: [pdavisonreiber](https://github.com/pdavisonreiber)
 - Email: [peter@davisonreiber.com](mailto:peter@davisonreiber.com)
-
-## Lindsay
