@@ -26,7 +26,7 @@
 <itunes:image href="http://www.YourSite.com/ImageSize300X300.jpg" />
 -->
 <atom:link href="http://davisonreiber.com/grandmas.xml" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 01 July 2018 00:00:00 GMT</pubDate>
+<pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
 <title>Grandma Recordings</title>
 <itunes:author>Peter Davison-Reiber</itunes:author>
 <description>Recordings of Grandma Reiber and Grandma Newman</description>
@@ -40,7 +40,7 @@
 <itunes:subtitle></itunes:subtitle>
 <itunesu:category itunesu:code="112" />
 <enclosure url="https://www.dropbox.com/s/35lgp4hbv5xhhaw/Grandma%20Reiber.mp3" type="audio/mpeg" length="1" />
-<guid>http://www.YourSite.com/FILE.EXT</guid>
+<guid>https://www.dropbox.com/s/35lgp4hbv5xhhaw/Grandma%20Reiber.mp3</guid>
 <itunes:duration>0:32:32</itunes:duration>
 <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
 </item>
@@ -51,7 +51,7 @@
 <itunes:subtitle></itunes:subtitle>
 <itunesu:category itunesu:code="112" />
 <enclosure url="https://www.dropbox.com/s/sgg8f1v6cn4gn7f/Grandma%20Newman.mp3" type="audio/mpeg" length="1" />
-<guid>http://www.YourSite.com/FILE.EXT</guid>
+<guid>https://www.dropbox.com/s/sgg8f1v6cn4gn7f/Grandma%20Newman.mp3</guid>
 <itunes:duration>1:36:46</itunes:duration>
 <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
 </item>
