@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WWDC19 Reactions
+title: WWDC19 Reactions
 slug: wwdc19-reactions
 date: 2019-06-07 18:18:14 +0100
 category: 

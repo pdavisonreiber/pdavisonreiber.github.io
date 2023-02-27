@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WWDC19 Wish List
+title: WWDC19 Wish List
 slug: wwdc19-wish-list
 date: 2019-06-03 16:33:51 +0100
 category: 
