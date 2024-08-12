@@ -4,9 +4,9 @@ html {
 }
 
 body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
 }
 
 .monospace {
-    font-family: ui-monospace, monospace;
+    font-family: ui-monospace, "Courier", monospace;
 }
