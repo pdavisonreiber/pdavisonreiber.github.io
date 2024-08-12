@@ -3,6 +3,10 @@ html {
     max-width: 750px;
 }
 
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
 .monospace {
-    font-family: Courier;
+    font-family: ui-monospace, monospace;
 }
