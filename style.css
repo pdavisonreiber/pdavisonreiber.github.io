@@ -5,6 +5,9 @@ html {
 
 body {
     font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+    background-color: Canvas;
+    color: CanvasText;
+    color-scheme: light dark;
 }
 
 .monospace {
